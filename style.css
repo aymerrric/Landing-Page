@@ -172,3 +172,31 @@ h2{
     font-weight: 800;
     font-size: 24px;
 }
+
+.section-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alert{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+    height: 50%;
+    border-radius: 15px;
+    color: #F9FAF8;
+}
+
+
+.alert p{
+    margin: 0;
+}
+
+
+.alert button{
+    border-color: #F9FAF8;
+    border-style: solid;
+    padding: 8px 25px;
+}
